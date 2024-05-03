@@ -1,0 +1,17 @@
+.tytle{
+    color: rgb(252, 106, 9);
+}
+#center{
+    text-align: center;
+}
+#mac{
+    color: rgb(243, 19, 11);
+}
+body{
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWKTdNy0FPkAV-F5JK1iWjf3bhfSSj1RsvCg&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    line-height: 70px;
+}  
